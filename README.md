@@ -1,1 +1,9 @@
-# Surfs_Up
+# Surfs Up Challenge
+## Overview
+### In this challenge the goal was to show more information on the temperature trends for the months of june and december. We're doing this to see if it's sustainable to keep the surf shop and ice cream shop open all year long. 
+
+## Results
+### When we run the results we can find many differences for the temperatures for the months of june and december. When we check the data images after running our program we can see a difference in the max temperature between these two months. For june when we check the image we see the max temperature is 85 degrees and for december when we check the image we see that it's 2 degrees lower at 83 degrees. The second difference that we can see is the minimum temperature. The data image for the month of june shows 64 degrees while the minimum temperature for december shows 56 degrees which is 8 degrees lower than june. The third difference that we see when we check our image is the mean temperature. For the month of june we have a mean of 74.94 degrees. For the month of december we have a mean of 71.04 degrees which is about 3 degrees lower. 
+
+## Summary
+When we run the results we can see that June on average is going to be a warmer month than december. I think that even though december is a colder month it would still be sustainable for them to keep the surf shop and the ice cream shop open all year long. There are two more queries that I think could be ran to make this data more in depth. One of the queries would be to see the difference in the temperature for these two months within the last couple years to gather more information. That way we could see if there are any outliers and get a more accurate representation of these months. Another query we could run is how many people visit the area between these two months. By doing this we could see if it ever gets slower and see if it wouldn't be sustainable to stay open during this time. 
